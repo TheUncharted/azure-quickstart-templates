@@ -84,6 +84,8 @@
         "Standard_A9",
         "Standard_A10",
         "Standard_A11"
+        "Standard_B4MS",
+        "Standard_B2MS"        
       ],
       "defaultValue": "Standard_A2"
     },
